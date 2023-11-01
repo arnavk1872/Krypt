@@ -30,5 +30,3 @@ Krypt is a decentralized application (DApp) built on a blockchain platform (you 
 5. All transactions are recorded on the blockchain, creating a transparent and immutable ledger of financial activities.
 
 Krypt is a powerful tool for anyone looking to send and receive cryptocurrencies in a decentralized, secure, and transparent manner. It leverages blockchain technology and smart contracts to enhance the trustworthiness and efficiency of cryptocurrency transactions.
-
-Please provide more specific details if you'd like a more in-depth explanation or have any specific aspects you want to highlight.
