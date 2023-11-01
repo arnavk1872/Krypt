@@ -1,8 +1,5 @@
 ![Krypt](https://i.ibb.co/DVF4tNW/image.png)
 
-
-Certainly, here's a simplified explanation of your decentralized application "Krypt":
-
 **Krypt: A Decentralized Cryptocurrency Sending and Transaction Recording DApp**
 
 **Overview:**
